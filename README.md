@@ -12,9 +12,9 @@ Here are some ideas to get you started: -->
 <!-- 💬 Ask me about ... -->
 - 📫 How to reach me: suvadipsana602@gmail.com
 <!-- 😄 Pronouns: ...-->
-<!-- ⚡ My Project work on API based weather forcasting app: https://weather-app-by-sana.netlify.app/ -->
+ ⚡ My Linked In: [https://weather-app-by-sana.netlify.app/](https://www.linkedin.com/in/suvadip-sana-b07a14243) 
 
 ### Projects:
 
-- API based weather forcasting app: https://weather-app-by-sana.netlify.app/
+- API based weather forcasting app: https://weatherappbysana.netlify.app/
 
