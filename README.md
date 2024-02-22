@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently pursuing my M.Sc in Computer Science.
-- 🌱 I’m currently learning Full Stack, Java
+- 🌱 I’m currently learning Full Stack and Java
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
