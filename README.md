@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 <!-- 💬 Ask me about ... -->
 - 📫 How to reach me: suvadipsana602@gmail.com
 <!-- 😄 Pronouns: ...-->
--⚡ My Linked In: https://www.linkedin.com/in/suvadip-sana-b07a14243
+- ⚡ My Linked In: https://www.linkedin.com/in/suvadip-sana-b07a14243
 
 ### Projects:
 
