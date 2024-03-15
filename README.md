@@ -16,5 +16,6 @@ Here are some ideas to get you started: -->
 
 ### Projects:
 
-⚡ API based weather forcasting app: https://suvadip-sana.github.io/weather_app/
+🧑‍💻  API based weather forcasting app: https://suvadip-sana.github.io/weather_app/
+🧑‍💻  Responsive Amazon Clone using HTML & CSS(amazon.com): https://suvadip-sana.github.io/AMAZON-clone/ 
 
