@@ -16,5 +16,5 @@ Here are some ideas to get you started: -->
 
 ### Projects:
 
-⚡ API based weather forcasting app: https://weatherappbysana.netlify.app/
+⚡ API based weather forcasting app: https://suvadip-sana.github.io/weather_app/
 
