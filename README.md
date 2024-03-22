@@ -83,11 +83,12 @@
 -->
 
 <div align="left">
- <p>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suvadip-sana&locale=en&hide_title=false&layout=compact&card_width=375&langs_count=6&theme=nightowl&hide_border=false&order=2" height="200" alt="languages graph"  />
+ <p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suvadip-sana&locale=en&hide_title=false&layout=compact&card_width=375&langs_count=6&theme=nightowl&hide_border=false&order=2" height="200" alt="languages graph"  />
 </p>
  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1&card_width=340" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Suvadip-sana&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&order=3&card_width=383" height="200" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&&card_width=375locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+ <img src="https://streak-stats.demolab.com?user=Suvadip-sana&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&order=3&card_width=383" height="200" alt="streak graph"  />
  </p>
 </div>
 
