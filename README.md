@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Suvadip Sana</h1>
 <h3 align="center">A passionate web developer from India</h3>
@@ -12,6 +12,9 @@
 - 💬 Ask me about **Java, Web Development, HTML, CSS, Java Script, Java Server Pages**
 
 - 📫 How to reach me **suvadipsana602@gmail.com**
+
+<img align="right"  alt="coding" width="150" height="200" src="https://www.codedex.io/images/codedex-bot-logo.gif">
+
 
  ### Projects:
 
