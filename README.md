@@ -33,6 +33,7 @@
 
 <img align="right"  alt="coding" width="150" height="200" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvadip-sana&show_icons=true&locale=en&layout=compact" alt="suvadip-sana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvadip-sana&show_icons=true&locale=en" alt="suvadip-sana" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvadip-sana&" alt="suvadip-sana" /></p>
 
 
