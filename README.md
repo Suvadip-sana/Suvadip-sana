@@ -15,10 +15,10 @@
 
 
  ##
- Projects:
+ <h3 align="left">Projects:</h3>
 
-- 💎  API based weather forcasting app(responsive): https://suvadip-sana.github.io/weather_app/
-- 💎  Amazon Clone using HTML & CSS(amazon.com): https://suvadip-sana.github.io/AMAZON-clone/ 
+- ⭕  API based weather forcasting app(responsive): https://suvadip-sana.github.io/weather_app/
+- ⭕  Amazon Clone using HTML & CSS(amazon.com): https://suvadip-sana.github.io/AMAZON-clone/ 
 
 
 
