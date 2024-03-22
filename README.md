@@ -71,7 +71,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<img align="right" height="200" width="383" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+<img align="right" height="210" width="283" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
 <!--
 <div align="left">
@@ -84,7 +84,7 @@
 
 <div align="left">
  <p>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&layout=donut&locale=en&hide_title=false&card_width=250&langs_count=6&theme=nightowl&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&layout=donut&locale=en&hide_title=false&card_width=220&langs_count=6&theme=nightowl&hide_border=false&order=2" height="210" alt="languages graph"  />
 </p>
  <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&&card_width=375locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
