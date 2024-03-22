@@ -83,13 +83,9 @@
 
 ##
 
-<!--
-<br clear="both">
+![snake gif](https://github.com/Suvadip-sana/Suvadip-sana/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/Suvadip-sana/Suvadip-sana/output/snake.svg" alt="Snake animation" />
 
-###
--->
 
 
 
