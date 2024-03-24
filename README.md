@@ -72,7 +72,9 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<img align="right" height="210" width="283" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+<!-- <img align="right" height="210" width="283" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  /> -->
+<img align="right" height="210" width="283" src="212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
+
 
 <!--
 <div align="left">
