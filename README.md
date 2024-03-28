@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Front end**
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **Java, Web Development, HTML, CSS, Java Script, Java Server Pages**
 
