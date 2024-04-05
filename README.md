@@ -95,7 +95,7 @@
 </p>
  <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&&card_width=375locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /> -->
-  <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl" height="200" alt="stats graph""/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&card_width=220" height="200" alt="stats graph""/>
  <img src="https://streak-stats.demolab.com?user=Suvadip-sana&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&order=3&card_width=383" height="200" alt="streak graph"  />
  </p>
 </div>
