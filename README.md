@@ -91,7 +91,7 @@
 
 <div align="left">
  <p>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&layout=donut&locale=en&hide_title=false&card_width=220&langs_count=8&theme=nightowl&hide_border=false&order=2" height="210" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&layout=donut&locale=en&hide_title=false&card_width=220&langs_count=8&theme=onedark&hide_border=false&order=2" height="210" alt="languages graph"  />
 </p>
  <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&&card_width=375locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /> -->
