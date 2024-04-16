@@ -19,7 +19,7 @@
 
 
  ##
- <h3 align="left">Projects:</h3>
+ <h2 align="left">Projects:</h2>
 
 - 📌  API based `Weather Forcasting App`(responsive) HTML, CSS & JS: https://suvadip-sana.github.io/weather_app/
 - 📌  `Amazon` UI Clone using HTML & CSS(amazon.com): https://suvadip-sana.github.io/AMAZON-clone/
@@ -29,7 +29,7 @@
 
 ##
 
-<h3 align="center">🛠️ Languages and Tools 🛠️</h3>
+<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -64,7 +64,7 @@
 
 ##
 
-<h3 align="center">🔗 Connect with me 🔗</h3>
+<h2 align="center">🔗 Connect with me 🔗</h2>
 
 <div align="center">
 <!--   <a href="suvadipsana602@gmail.com" target="_blank">
@@ -80,11 +80,11 @@
 
 ##
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="center">🔥 My Stats 🔥</h2>
 
 ###
 <!-- <img align="right" height="210" width="283" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  /> -->
-<img align="right" height="210" width="283" src="212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
+<!-- <img align="right" height="210" width="283" src="212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  /> -->
 
 
 <!--
@@ -96,7 +96,7 @@
 </div>
 -->
 
-<div align="left">
+<div align="center">
  <p>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&layout=donut&locale=en&hide_title=false&card_width=220&langs_count=8&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph"  />
 </p>
