@@ -2,13 +2,16 @@
 <!-- ![MasterHead](cover1.gif) -->
 
 <!--<h1 align="center">Hi 👋, I'm Suvadip Sana</h1>-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Suvadip-sana.Suvadip-sana" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suvadip+Sana!;" />
 </h1>
 <!-- <h3 align="center">A passionate web developer from India</h3> -->
+<h4 align="center"> A Web Developer from India!</h4>
 
 ##
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Suvadip-sana.Suvadip-sana" />
+    
 - 🔭 I’m currently working on **Front end**
 
 - 🌱 I’m currently learning **MERN stack**
