@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suvadip+Sana!;" />
 </h1>
 <!-- <h3 align="center">A passionate web developer from India</h3> -->
-<h4 align="center"> A Web Developer from India!</h4>
+<h3 align="center"> A Web Developer from India!</h3>
 
 ##
     
