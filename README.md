@@ -3,6 +3,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Suvadip Sana</h1>-->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Suvadip-sana.Suvadip-sana" />
+<img align="right" width="150" src="https://profile-counter.glitch.me/Suvadip-sana/count.svg?"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suvadip+Sana!;" />
@@ -79,6 +80,19 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/suvadip-sana-b07a14243/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/SuvadipSana2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/aquassuva8311/ " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+
+
 
 ##
 
