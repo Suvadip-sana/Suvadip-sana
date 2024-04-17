@@ -33,9 +33,9 @@
 
 
 ## 
-<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
+<h2 align="left">🛠️ Languages and Tools:</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -68,7 +68,7 @@
 
 ##
 
-<h2 align="center">🔗 Connect with me 🔗</h2>
+<h2 align="left">🔗 Connect with me:</h2>
 
 <!--
 <div align="center">
@@ -81,7 +81,11 @@
 </div>
 -->
 
-<div align="center">
+<div align="left">
+  
+  <a href="mailto:suvadipsana602@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/suvadip-sana-b07a14243/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -96,7 +100,7 @@
 
 ##
 
-<h2 align="center">🔥 My Stats 🔥</h2>
+<h2 align="left">🔥 My Stats:</h2>
 
 ###
 <!-- <img align="right" height="210" width="283" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  /> -->
@@ -112,9 +116,9 @@
 </div>
 -->
 
-<div align="center">
+<div align="left">
  <p>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&layout=donut&locale=en&hide_title=false&card_width=220&langs_count=8&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&layout=compact&locale=en&hide_title=false&card_width=220&langs_count=8&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph"  />
 </p>
  <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&&card_width=375locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /> -->
