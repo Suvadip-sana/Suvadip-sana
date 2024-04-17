@@ -86,7 +86,7 @@
   <a href="mailto:suvadipsana602@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/suvadip-sana-b07a14243/" target="_blank">
+  <a href="https://www.linkedin.com/in/suvadip-sana-b07a14243/" target="_main">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/SuvadipSana2" target="_blank">
