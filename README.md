@@ -24,7 +24,7 @@
 
 
  ##
- <h2 align="left">Projects:</h2>
+ <h2 align="left">💻 Projects:</h2>
 
 - 📌  API based `Weather Forcasting App`(responsive) HTML, CSS & JS: https://suvadip-sana.github.io/weather_app/
 - 📌  `Amazon` UI Clone using HTML & CSS(amazon.com): https://suvadip-sana.github.io/AMAZON-clone/
