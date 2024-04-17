@@ -118,11 +118,11 @@
 
 <div align="left">
  <p>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&layout=compact&locale=en&hide_title=false&card_width=220&langs_count=8&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&size_weight=0.5&count_weight=0.5&layout=compact&locale=en&hide_title=false&card_width=220&langs_count=8&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph"  />
 </p>
  <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&&card_width=375locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /> -->
-  <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&card_width=220" height="200" alt="stats graph""/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&card_width=220&hide=contribs,issues" height="200" alt="stats graph""/>
  <img src="https://streak-stats.demolab.com?user=Suvadip-sana&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3&card_width=383" height="200" alt="streak graph"  />
  </p>
 </div>
