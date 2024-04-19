@@ -3,7 +3,6 @@
 <!-- <img align="center" height="180" width="100%" src="cover1.gif"  /> -->
 
 
-<!--<h1 align="center">Hi 👋, I'm Suvadip Sana</h1>-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Suvadip-sana&label=Profile%20views&color=0e75b6&style=flat" alt="Suvadip-sana" /> </p>
 
 <h1 align="center">
@@ -103,25 +102,12 @@
 <h2 align="left">🔥 My Stats:</h2>
 
 ###
-<!-- <img align="right" height="210" width="283" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  /> -->
-<!-- <img align="right" height="210" width="283" src="212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  /> -->
-
-
-<!--
-<div align="left">
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suvadip-sana&locale=en&hide_title=false&layout=compact&card_width=375&langs_count=6&theme=codeSTACKr" height="200" alt="languages graph"  /> </p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&card_width=340" height="200" alt="stats graph"  />
-   <img src="https://streak-stats.demolab.com?user=Suvadip-sana&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3&card_width=383" height="200" alt="streak graph"  /> </p>
-
-</div>
--->
 
 <div align="left">
  <p>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&size_weight=0.5&count_weight=0.5&layout=compact&locale=en&hide_title=false&card_width=520&langs_count=8&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph"  />
 </p>
  <p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&&card_width=375locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /> -->
   <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&card_width=220&hide=contribs,issues" height="160" alt="stats graph""/>
  <img src="https://streak-stats.demolab.com?user=Suvadip-sana&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3&card_width=383" height="180" alt="streak graph"  />
  </p>
@@ -133,11 +119,6 @@
 
 ###
 
-
-<!--
-##
-![snake gif](https://github.com/Suvadip-sana/Suvadip-sana/blob/output/github-contribution-grid-snake.svg)
--->
 
 
 
