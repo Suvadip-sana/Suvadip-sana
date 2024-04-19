@@ -113,10 +113,6 @@
  </p>
 </div>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&layout=donut)](https://github.com/Suvadip-sana/github-readme-stats)
--->
-
 ###
 
 
