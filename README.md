@@ -114,7 +114,7 @@
 </div>
 
 ###
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=14,21&height=82&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
 ###
 
 
