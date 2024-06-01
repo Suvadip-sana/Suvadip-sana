@@ -25,6 +25,7 @@
  ##
  <h2 align="left">💻 Projects:</h2>
 
+- 📌  Fully functional Online 'Movie Booking System' for particular one Theater, called `CINEMA WORLD`, both frontend and backend with HTML, CSS, Java Script and JSP(ORACLE)
 - 📌  API based `Weather Forcasting App`(responsive) HTML, CSS & JS: https://suvadip-sana.github.io/weather_app/
 - 📌  `Amazon` UI Clone using HTML & CSS(amazon.com): https://suvadip-sana.github.io/AMAZON-clone/
 - 📌  `Spotify` UI Clone using HTML & CSS(responsive): https://suvadip-sana.github.io/Spotify-clone/ 
