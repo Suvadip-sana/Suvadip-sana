@@ -25,7 +25,7 @@
  ##
  <h2 align="left">💻 Projects:</h2>
 
-- 📌  Online 'Movie Booking System' for Theater, called `CINEMA WORLD` - HTML, CSS, JS and JSP(ORACLE). Visit this repo [Cinema World](https://github.com/Suvadip-sana/Cinema-World)
+- 📌  Online 'Movie Booking System' for Theater, called `CINEMA WORLD` - HTML, CSS, JS and JSP(ORACLE). Visit this repo - [Cinema World](https://github.com/Suvadip-sana/Cinema-World)
 - 📌  API based `Weather Forcasting App`(responsive) HTML, CSS & JS: [Weather App](https://suvadip-sana.github.io/weather_app/)
 - 📌  `Amazon` UI Clone using HTML & CSS(amazon.com): [Amazon.com](https://suvadip-sana.github.io/AMAZON-clone/)
 - 📌  `Spotify` UI Clone using HTML & CSS(responsive): [Spotify.com](https://suvadip-sana.github.io/Spotify-clone/) 
