@@ -29,7 +29,7 @@
 - 📌  API based `Weather Forcasting App`(responsive) HTML, CSS & JS: [Weather App](https://suvadip-sana.github.io/weather_app/)
 - 📌  `Amazon` UI Clone using HTML & CSS(amazon.com): [Amazon.com](https://suvadip-sana.github.io/AMAZON-clone/)
 - 📌  `Spotify` UI Clone using HTML & CSS(responsive): [Spotify.com](https://suvadip-sana.github.io/Spotify-clone/) 
-- 📌  API based `Currency Converter Web App` using HTML, CSS & Java Script(responsive): [Currency Converter]((https://suvadip-sana.github.io/Currency-Converter/)) 
+- 📌  API based `Currency Converter Web App` using HTML, CSS & Java Script(responsive): [Currency Converter](https://suvadip-sana.github.io/Currency-Converter/)
 
 
 ## 
