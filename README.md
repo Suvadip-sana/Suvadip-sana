@@ -27,8 +27,7 @@
 
 - 📌  Online 'Movie Booking System' called `CINEMA WORLD` - HTML, CSS, JS and JSP(ORACLE). Visit this repo - [Cinema World](https://github.com/Suvadip-sana/Cinema-World)
 - 📌  `Weather Forcasting App` HTML, CSS & JS with a beautifull responsive UI: [Weather App](https://suvadip-sana.github.io/weather_app_2.O/)
-- 📌  `Simon Game` It's mainly a Java Script project implementing all logic of SIMON game. [Simon Say](https://suvadip-sana.github.io/Simon-Say-Game/)
-- 📌  `Amazon` UI Clone using HTML & CSS(amazon.com): [Amazon.com](https://suvadip-sana.github.io/AMAZON-clone/)
+- 📌  `Simon Game` It's mainly a Java Script project implementing all logic of SIMON game. [Simon Say](https://suvadip-sana.github.io/Simon-Say-Game/)<!-- - 📌  `Amazon` UI Clone using HTML & CSS(amazon.com): [Amazon.com](https://suvadip-sana.github.io/AMAZON-clone/) -->
 - 📌  `Spotify` UI Clone using HTML & CSS(responsive): [Spotify.com](https://suvadip-sana.github.io/Spotify-clone/) 
 - 📌  `Currency Converter Web App` using HTML, CSS & Java Script(responsive): [Currency Converter](https://suvadip-sana.github.io/Currency-Converter/)
 
