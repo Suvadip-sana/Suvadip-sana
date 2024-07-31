@@ -22,9 +22,10 @@
 - 📫 How to reach me **suvadipsana602@gmail.com**
 
 ##
-<h2 aliggn="left"> ☣️Portfolio: </h2>
+<h2 aliggn="left"> ☣️Portfolio & Resume: </h2>
 
 - 📌  Here is My [Portfolio](https://suvadip-sana.github.io/portfolio/)
+- 📌  Here is My [Resume](https://drive.google.com/file/d/14UiXI-UCwycyrcMH72YX1cCHyk9EmnfW/view)
 
 
  ##
