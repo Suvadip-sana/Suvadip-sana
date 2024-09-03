@@ -25,7 +25,7 @@
 <h2 aliggn="left"> ☣️Portfolio & Resume: </h2>
 
 - 📌  Here is My [Portfolio](https://suvadip-sana.github.io/portfolio/)
-- 📌  Here is My [Resume](https://drive.google.com/file/d/1Zsk_7JE94ysdf2Vqq4geqIGZO54DgJz8/view)
+- 📌  Here is My [Resume](https://drive.google.com/file/d/1DWyYHbGcwnlRk9syYkdZ0HMUkbTuinsc/view)
 
 
  ##
