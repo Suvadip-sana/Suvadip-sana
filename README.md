@@ -13,11 +13,11 @@
 
 ##
     
-- 🔭 I’m currently working on **Front end**
+- 🔭 I’m currently working on **React.js**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Java, Web Development, HTML, CSS, Java Script, Java Server Pages**
+- 💬 Ask me about **Java Script, Java, Web Development, HTML, CSS**
 
 - 📫 How to reach me **suvadipsana602@gmail.com**
 
