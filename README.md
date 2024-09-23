@@ -120,6 +120,9 @@
   <a href="https://www.hackerrank.com/profile/suvadipsana602" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+  <a href="https://www.leetcode.com/u/suvadip_sana/" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/suvadip_sana/"height="30" width="40" />
+  </a>
 
 
 ##
