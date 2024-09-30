@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Java Script, Java, Web Development, HTML, CSS**
+- 💬 Ask me about **Java Script, Web Development, HTML, CSS, NodeJS, ExpressJS, MongoDB, Java**
 
 - 📫 How to reach me **suvadipsana602@gmail.com**
 
