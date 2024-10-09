@@ -123,6 +123,15 @@
   <a href="https://www.leetcode.com/u/suvadip_sana/" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/suvadip_sana/"height="30" width="40" />
   </a>
+</div>
+
+##
+
+<h2 align="left">🎉 My badges: </h2>
+<div>
+    <!-- [![An image of @suvadipsana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suvadipsana)](https://holopin.io/@suvadipsana) -->
+     <img src="https://holopin.me/suvadipsana" alt="@kochie's Holopin board" height="200"/>
+</div>
 
 
 ##
