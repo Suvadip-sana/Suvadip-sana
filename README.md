@@ -148,6 +148,9 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&card_width=220&hide=contribs,issues" height="160" alt="stats graph""/>
  <img src="https://streak-stats.demolab.com?user=Suvadip-sana&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3&card_width=383" height="180" alt="streak graph"  />
  </p>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Suvadip-sana&layout=compact&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="Suvadip Sana" />
+</p>
 </div>
 
 ###
