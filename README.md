@@ -127,7 +127,7 @@
 
 ##
 
-<h2 align="left">🎉 My badges: </h2>
+<h2 align="left">🎉All About Hacktoberfest 2024 </h2>
 <div>
     <!-- [![An image of @suvadipsana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suvadipsana)](https://holopin.io/@suvadipsana) -->
      <img src="https://holopin.me/suvadipsana" alt="@kochie's Holopin board" height="200"/>
@@ -142,15 +142,14 @@
 
 <div align="left">
  <p>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&size_weight=0.5&count_weight=0.5&layout=compact&locale=en&hide_title=false&card_width=420&langs_count=6&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&size_weight=0.5&count_weight=0.5&layout=compact&locale=en&hide_title=false&card_width=420&langs_count=6&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
+<!--      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&show_icons=true&locale=en" alt="Suvadip-sana" /> -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=Suvadip-sana&layout=compact&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="Suvadip Sana" height="180" />
 </p>
  <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&card_width=220&hide=contribs,issues" height="160" alt="stats graph""/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&card_width=220" height="160" alt="stats graph""/>
  <img src="https://streak-stats.demolab.com?user=Suvadip-sana&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3&card_width=383" height="180" alt="streak graph"  />
  </p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Suvadip-sana&layout=compact&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="Suvadip Sana" />
-</p>
 </div>
 
 <!--
