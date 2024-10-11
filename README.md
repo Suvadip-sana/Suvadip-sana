@@ -144,7 +144,7 @@
  <p>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&size_weight=0.5&count_weight=0.5&layout=compact&locale=en&hide_title=false&card_width=420&langs_count=6&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
 <!--      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&show_icons=true&locale=en" alt="Suvadip-sana" /> -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=Suvadip-sana&layout=compact&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="Suvadip Sana" height="180" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Suvadip-sana&layout=compact&limit=4&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="Suvadip Sana" height="180" />
 </p>
  <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&card_width=220" height="160" alt="stats graph""/>
