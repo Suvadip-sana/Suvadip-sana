@@ -134,6 +134,13 @@
      <img src="https://holopin.me/suvadipsana" alt="@kochie's Holopin board" height="200"/>
 </div>
 
+## 
+<!-- ## GSSOC-Extd(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+</div>
+-->
+
 
 ##
 
