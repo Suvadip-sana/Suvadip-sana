@@ -8,6 +8,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suvadip+Sana!;" />
 </h1>
+
 <!-- <h3 align="center">A passionate web developer from India</h3> -->
 <h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="👽" width="32" height="32"> A Software Developer from India!</h3>
 
