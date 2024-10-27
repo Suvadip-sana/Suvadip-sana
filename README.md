@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suvadip+Sana!;" />
 </h1>
 <!-- <h3 align="center">A passionate web developer from India</h3> -->
-<h3 align="center"> A Web Developer from India!</h3>
+<h3 align="center"> A Web Developer from India!<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32"></h3>
 
 ##
 - 🌟 Currently contributing in **Open Source**
@@ -23,14 +23,13 @@
 - 📫 How to reach me **suvadipsana602@gmail.com**
 
 ##
-<h2 aliggn="left"> ☣️Portfolio & Resume: </h2>
+<h2 aliggn="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.gif" alt="🏁" width="32" height="32"> Portfolio & Resume: </h2>
 
 - 📌  Here is My [Portfolio](https://suvadip-sana.github.io/portfolio/)
 - 📌  Here is My [Resume](https://drive.google.com/file/d/1DWyYHbGcwnlRk9syYkdZ0HMUkbTuinsc/view)
 
-
  ##
- <h2 align="left">💻 Projects:</h2>
+ <h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">  Projects:</h2>
  
 - 📌  `Nestquest` is an online marketplace that connects people who want to rent out their homes with those looking for accommodations. [Nestquest](https://nestquest-4ik5.onrender.com/)
 - 📌  `Weather Forcasting App` HTML, CSS & JS with a beautifull responsive UI: [Weather App](https://suvadip-sana.github.io/weather_app_2.O/)
@@ -41,7 +40,7 @@
 
 
 ## 
-<h2 align="left">🛠️ Languages and Tools:</h2>
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">  Languages and Tools:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -88,7 +87,7 @@
 
 ##
 
-<h2 align="left">🔗 Connect with me:</h2>
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"> Connect with me:</h2>
 
 <!--
 <div align="center">
@@ -128,7 +127,7 @@
 
 ##
 
-<h2 align="left">🎉All About Hacktoberfest 2024 </h2>
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32"> All About Hacktoberfest 2024 </h2>
 <div>
     <!-- [![An image of @suvadipsana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suvadipsana)](https://holopin.io/@suvadipsana) -->
      <img src="https://holopin.me/suvadipsana" alt="@kochie's Holopin board" height="200"/>
@@ -136,7 +135,7 @@
 
 ##
 
-## GSSOC-Extd(24) Badges 🪶
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> GSSOC-Extd(24) Badges 🪶</h2> 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" height="80px" />
@@ -155,7 +154,7 @@
 
 ##
 
-<h2 align="left">🔥 My Stats:</h2>
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> My Stats:</h2>
 
 ###
 
