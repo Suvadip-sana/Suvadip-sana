@@ -127,100 +127,97 @@
 </div>
 
 ##
-
-<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32"> All About Hacktoberfest 2024 </h2>
-<div>
-    <!-- [![An image of @suvadipsana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suvadipsana)](https://holopin.io/@suvadipsana) -->
-     <img src="https://holopin.me/suvadipsana" alt="@kochie's Holopin board" height="200"/>
-</div>
-
-##
-
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> GSSOC-Extd(24) Badges 🪶</h2> 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px" height="80px" />
-  <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="80px" height="80px" /> -->
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="80px" height="80px" /></a>
-</div>
-
-<!--
-## :zap: Open Source Programs & Achievements
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Open Source Programs & Achievements</h2>
 
 <div align="center">
   <table>
     <tr align="center">
-      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="center" width="50%">
         <a href="">
-          <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <img src="https://github.com/Suvadip-sana/Suvadip-sana/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
-          <strong>GirlScript Summer of Code</strong>
+          <h4>GirlScript Summer of Code</h4>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 17th</span>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 15th</span>
         <br>
         <span style="font-size: 12px; color: #777777;">
-	  Out of 17,000+ participants<br>
-          PRs Merged: 154<br>
-          Total Badges: 8<br>
-          Total Score: 3020<br>
+	  Out of 40,000+ participants<br>
+          PRs Merged: 122<br>
+          Total Badges: 12<br>
+          Total Score: 4025<br>
+<!-- 	  Leaderboard: [Leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd)  -->
+	  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">Leaderboard</a>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" />
               <br>
-              <strong>Explorer Badge</strong>
+              <p>Explorer Badge</p>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px"/>
               <br>
-              <strong>Adventurer Badge</strong>
+              <p>Adventurer Badge</p>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+                <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px"/>
               <br>
-              <strong>Champion Badge</strong>
+	      <p>Trailblazer Badge</p>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px"/>
               <br>
-              <strong>Trailblazer Badge</strong>
+	      <p>Summit Seeker Badge</p>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px"/>
               <br>
-              <strong>Summit Seeker Badge</strong>
+	      <p>Champion Badge</p>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px"/>
               <br>
-              <strong>Innovator Badge</strong>
+              <p>Innovator Badge</p>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px"/>
               <br>
-              <strong>Conqueror Badge</strong>
+              <p>Conqueror Badge</p>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px"/>
               <br>
-              <strong>API Student Expert</strong>
+              <p>API Student Expert</p>
               <br>
-              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td>
+          </tr>
+	  <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px"/>
+              <br>
+              <p>Web3Hack Badge</p>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+               <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="80px"/>
+              <br>
+              <p>Git Explorer</p>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="80px"/>
+              <br>
+              <p>Pull Expert</p>
+              <br>
+            </td>
+	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="80px"/>
+              <br>
+              <p>Code Luminary</p>
             </td>
           </tr>
         </table>
@@ -229,8 +226,14 @@
   </table>
 </div>
 
-<br> -->
+<br>
 
+
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32"> All About Hacktoberfest 2024 </h2>
+<div>
+    <!-- [![An image of @suvadipsana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suvadipsana)](https://holopin.io/@suvadipsana) -->
+     <img src="https://holopin.me/suvadipsana" alt="@kochie's Holopin board" height="200"/>
+</div>
 
 ##
 
