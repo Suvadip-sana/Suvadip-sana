@@ -200,7 +200,6 @@
               <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px"/>
               <br>
               <p>API Student Expert</p>
-              <br>
             </td>
           </tr>
 	  <tr align="center">
