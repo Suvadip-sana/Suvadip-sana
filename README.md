@@ -145,7 +145,6 @@
           <br>
           <h4>GirlScript Summer of Code</h4>
         </a>
-        <br>
         <span style="font-size: 14px; color: #555555;">🏅 Ranked 15th</span>
         <br>
         <span style="font-size: 12px; color: #777777;">
