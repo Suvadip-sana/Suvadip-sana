@@ -217,7 +217,6 @@
               <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="80px"/>
               <br>
               <p>Pull Expert</p>
-              <br>
             </td>
 	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="80px"/>
