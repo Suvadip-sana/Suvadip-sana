@@ -27,7 +27,7 @@
 <h2 aliggn="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.gif" alt="🏁" width="32" height="32"> Portfolio & Resume: </h2>
 
 - 📌  Here is My [Portfolio](https://suvadip-sana.github.io/portfolio/)
-- 📌  Here is My [Resume](https://drive.google.com/file/d/1DWyYHbGcwnlRk9syYkdZ0HMUkbTuinsc/view)
+- 📌  Here is My [Resume](https://drive.google.com/file/d/1vxpOlnqQ4NJo1EAzNQlecx0xGMCg74hG/view)
 
  ##
  <h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">  Projects:</h2>
