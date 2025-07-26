@@ -10,12 +10,12 @@
 </h1>
 
 <!-- <h3 align="center">A passionate web developer from India</h3> -->
-<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="👽" width="32" height="32"> A Software Developer from India!</h3>
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="👽" width="32" height="32"> A Software Engineer from India!</h3>
 
 ##
 - 🌟 Currently doing **DSA**
     
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **.NET** ,**React.js**
 
 - 🌱 I’m currently learning **MERN stack**
 
