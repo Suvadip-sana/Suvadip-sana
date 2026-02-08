@@ -31,7 +31,8 @@
 
  ##
  <h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">  Projects:</h2>
- 
+
+- 📌 `Converze` is an online chatting and video meeting platform inspired by Zoom and Google Meet. [converze](https://github.com/user-attachments/assets/ab69cc6a-57c7-4ffb-a041-914a4dd682a7)
 - 📌  `Nestquest` is an online marketplace that connects people who want to rent out their homes with those looking for accommodations. [Nestquest](https://nestquest-4ik5.onrender.com/)
 - 📌  `Weather Forcasting App` HTML, CSS & JS with a beautifull responsive UI: [Weather App](https://suvadip-sana.github.io/weather_app_2.O/)
 - 📌  Online 'Movie Booking System' called `CINEMA WORLD` - HTML, CSS, JS and JSP(ORACLE). Visit this repo - [Cinema World](https://github.com/Suvadip-sana/Cinema-World)
