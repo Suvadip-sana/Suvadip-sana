@@ -137,7 +137,7 @@
 ##
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Open Source Programs & Achievements</h2>
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="center" width="50%">
@@ -153,7 +153,6 @@
           PRs Merged: 122<br>
           Total Badges: 12<br>
           Total Score: 4025<br>
-<!-- 	  Leaderboard: [Leaderboard](https://gssoc.girlscript.tech/leaderboard?year=2024Extd)  -->
 	  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">Leaderboard</a>
         </span>
       </td>
@@ -229,7 +228,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <br>
 
@@ -246,17 +245,17 @@
 
 ###
 
-<div align="left">
+<!-- <div align="left">
  <p>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvadip-sana&size_weight=0.5&count_weight=0.5&layout=compact&locale=en&hide_title=false&card_width=420&langs_count=6&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
-<!--      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&show_icons=true&locale=en" alt="Suvadip-sana" /> -->
+<!--      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suvadip-sana&show_icons=true&locale=en" alt="Suvadip-sana" />
   <img src="https://github-contributor-stats.vercel.app/api?username=Suvadip-sana&layout=compact&limit=4&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="Suvadip Sana" height="180" />
 </p>
  <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=Suvadip-sana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&hide_border=true&card_width=220" height="160" alt="stats graph""/>
  <img src="https://streak-stats.demolab.com?user=Suvadip-sana&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3&card_width=383" height="180" alt="streak graph"  />
  </p>
-</div>
+</div> -->
 
 <!--
 ###
